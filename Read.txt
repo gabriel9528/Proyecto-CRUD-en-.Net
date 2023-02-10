@@ -1,0 +1,5 @@
+Proyecto CRUD en .net7:
+
+Proyecto de creacion de Usuarios con .net7 usando entityFramework para enlazar con la base de datos SQLSERVER(se creo una base de datos de forma local llamada "local").
+El proyecto se realizo bajo el modelo de capas Modelo Vista Controlador.
+Se adjunta imagenes
